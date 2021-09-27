@@ -1,0 +1,28 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$interfaceArchUnitNET_1_1Domain_1_1ICanBeCompilerGenerated.html" title="ArchUnitNET.Domain.ICanBe\lCompilerGenerated" alt="" coords="43,145,245,186"/>
+<area shape="rect" id="node2" href="$interfaceArchUnitNET_1_1Domain_1_1ICanBeAnalyzed.html" title="ArchUnitNET.Domain.ICanBe\lAnalyzed" alt="" coords="347,269,549,310"/>
+<area shape="rect" id="node3" href="$interfaceArchUnitNET_1_1Domain_1_1IMember.html" title="ArchUnitNET.Domain.IMember" alt="" coords="613,461,828,488"/>
+<area shape="rect" id="node7" href="$interfaceArchUnitNET_1_1Domain_1_1IType.html" title="ArchUnitNET.Domain.IType" alt="" coords="626,123,815,149"/>
+<area shape="rect" id="node4" href="$classArchUnitNET_1_1Domain_1_1FieldMember.html" title="ArchUnitNET.Domain.Field\lMember" alt="" coords="890,486,1077,527"/>
+<area shape="rect" id="node5" href="$classArchUnitNET_1_1Domain_1_1MethodMember.html" title="ArchUnitNET.Domain.Method\lMember" alt="" coords="880,551,1087,593"/>
+<area shape="rect" id="node6" href="$classArchUnitNET_1_1Domain_1_1PropertyMember.html" title="ArchUnitNET.Domain.Property\lMember" alt="" coords="877,421,1089,462"/>
+<area shape="rect" id="node8" href="$classArchUnitNET_1_1Domain_1_1Class.html" title="ArchUnitNET.Domain.Class" alt="" coords="887,5,1079,32"/>
+<area shape="rect" id="node10" href="$classArchUnitNET_1_1Domain_1_1GenericParameter.html" title="ArchUnitNET.Domain.Generic\lParameter" alt="" coords="880,57,1087,98"/>
+<area shape="rect" id="node11" href="$classArchUnitNET_1_1Domain_1_1Interface.html" title="ArchUnitNET.Domain.Interface" alt="" coords="876,123,1091,149"/>
+<area shape="rect" id="node12" href="$classArchUnitNET_1_1Loader_1_1Type.html" title="ArchUnitNET.Loader.Type" alt="" coords="894,173,1073,200"/>
+<area shape="rect" id="node9" href="$classArchUnitNET_1_1Domain_1_1Attribute.html" title="ArchUnitNET.Domain.Attribute" alt="" coords="1139,5,1353,32"/>
+<area shape="rect" id="node13" href="$interfaceArchUnitNET_1_1Domain_1_1ICanBeGeneric.html" title="ArchUnitNET.Domain.ICanBe\lGeneric" alt="" coords="43,210,245,251"/>
+<area shape="rect" id="node14" href="$interfaceArchUnitNET_1_1Domain_1_1IHasAttributes.html" title="ArchUnitNET.Domain.IHasAttributes" alt="" coords="19,377,269,404"/>
+<area shape="rect" id="node15" href="$classArchUnitNET_1_1Domain_1_1Assembly.html" title="ArchUnitNET.Domain.Assembly" alt="" coords="338,415,558,441"/>
+<area shape="rect" id="node16" href="$interfaceArchUnitNET_1_1Domain_1_1IHasDependencies.html" title="ArchUnitNET.Domain.IHasDependencies" alt="" coords="5,327,283,353"/>
+<area shape="rect" id="node17" href="$classArchUnitNET_1_1Domain_1_1Slice.html" title="ArchUnitNET.Domain.Slice\l\&lt; TKey \&gt;" alt="" coords="354,334,542,375"/>
+<area shape="rect" id="node18" href="$interfaceArchUnitNET_1_1Domain_1_1IHasName.html" title="ArchUnitNET.Domain.IHasName" alt="" coords="31,428,257,455"/>
+<area shape="rect" id="node19" href="$classArchUnitNET_1_1Domain_1_1Namespace.html" title="ArchUnitNET.Domain.Namespace" alt="" coords="331,483,565,509"/>
+<area shape="rect" id="node20" href="$interfaceArchUnitNET_1_1Domain_1_1IHasVisibility.html" title="ArchUnitNET.Domain.IHasVisibility" alt="" coords="25,276,263,303"/>
+<area shape="rect" id="node21" href="$interfaceArchUnitNET_1_1Domain_1_1ITypeInstance.html" title="ArchUnitNET.Domain.IType\lInstance\&lt; IType \&gt;" alt="" coords="626,355,815,397"/>
+<area shape="rect" id="node22" href="$classArchUnitNET_1_1Domain_1_1AttributeArgument.html" title="ArchUnitNET.Domain.Attribute\lArgument" alt="" coords="876,290,1091,331"/>
+<area shape="rect" id="node24" href="$classArchUnitNET_1_1Domain_1_1GenericArgument.html" title="ArchUnitNET.Domain.Generic\lArgument" alt="" coords="880,355,1087,397"/>
+<area shape="rect" id="node25" href="$classArchUnitNET_1_1Domain_1_1MethodMemberInstance.html" title="ArchUnitNET.Domain.Method\lMemberInstance" alt="" coords="880,225,1087,266"/>
+<area shape="rect" id="node23" href="$classArchUnitNET_1_1Domain_1_1AttributeNamedArgument.html" title="ArchUnitNET.Domain.Attribute\lNamedArgument" alt="" coords="1139,290,1353,331"/>
+<area shape="rect" id="node26" href="$classArchUnitNET_1_1Domain_1_1Slice.html" title="ArchUnitNET.Domain.Slice\l\&lt; string \&gt;" alt="" coords="50,479,238,521"/>
+</map>
